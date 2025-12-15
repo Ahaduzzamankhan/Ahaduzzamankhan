@@ -76,7 +76,7 @@
   <a href="mailto:bdgamer9191@gmail.com">
     <img src="https://img.shields.io/badge/Email-Professional_Contact-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="Ahaduzzamankhan">
     <img src="https://img.shields.io/badge/GitHub-Portfolio_&_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <a href="https://linkedin.com/in/ahaduzzamankhan">
