@@ -1,57 +1,78 @@
-<!-- Typing animation -->
+<!-- TOP WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&text=WELCOME&fontSize=48&fontColor=000000&color=FFD700" />
+
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ahaduzzaman+Khan;JavaScript+Developer;Founder+of+Fluxenite;Building+TBBA+CSS;Stay+Smarter%2C+Build+Smarter" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=26&pause=800&color=000000&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Ahaduzzaman+Khan;JavaScript+Developer;Founder+of+Fluxenite;Creator+of+TBBA+CSS;Stay+Smarter+Build+Smarter" />
 </p>
 
 ---
 
-<!-- Wave divider -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:7F00FF&height=120&section=header" />
+<!-- YELLOW DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&height=20&color=FFD700" />
 
-## 💫 About Me
-- 🚀 JavaScript & Web Developer  
-- 🧠 Building **Fluxenite (Zero-Infrastructure Framework)**  
-- 🎨 Creator of **TBBA CSS**  
-- 🔥 Open-source lover & GitHub contributor  
+## 🌟 ABOUT ME
+💛 Passionate Web Developer  
+⚡ JavaScript | Open Source | UI Systems  
+🚀 Building **Fluxenite – Zero Infrastructure Framework**  
+🎨 Designing **TBBA CSS**  
+🔥 Dreaming big, building bigger  
 
 ---
 
-## ⚡ Tech Stack (Animated Icons)
+<!-- TECH STACK -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,github,linux&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,github,linux&theme=light" />
 </p>
 
 ---
 
-## 📊 GitHub Stats (Live)
+<!-- ANIMATED BADGES -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=radical" />
+  <img src="https://img.shields.io/badge/JavaScript-FFD700?style=for-the-badge&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Open%20Source-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Fluxenite-FFD700?style=for-the-badge&logo=vercel&logoColor=000000"/>
 </p>
 
 ---
 
-## 🐍 Contribution Snake Animation
+<!-- GITHUB STATS -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&bg_color=FFD700&title_color=000000&text_color=000000&icon_color=000000&border_color=000000" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&background=FFD700&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&dates=000000" />
+</p>
+
+---
+
+<!-- ACTIVITY GRAPH -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=FFD700&color=000000&line=000000&point=000000&area=true" />
+</p>
+
+---
+
+<!-- SNAKE ANIMATION -->
 <p align="center">
   <img src="https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🌐 Connect With Me
+<!-- CONTACT -->
+## 🌍 CONNECT WITH ME
 <p align="center">
   <a href="mailto:bdgamer9191@gmail.com">
-    <img src="https://img.shields.io/badge/Email-FF0000?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-FFD700?style=for-the-badge&logo=gmail&logoColor=000000"/>
   </a>
   <a href="https://github.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-FFD700?style=for-the-badge&logo=github&logoColor=000000"/>
   </a>
 </p>
 
 ---
 
-<!-- Footer wave -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F00FF,100:36BCF7&height=120&section=footer" />
+<!-- FOOTER WAVE -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=FFD700" />
